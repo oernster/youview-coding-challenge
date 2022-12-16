@@ -26,8 +26,8 @@ no -> 66 666
 
 # Test cases are included.  Run all test cases as:
 
-python keys.py
+python tests.py
 
 or particular example as:
 
-python keys.py <word>
+python tests.py <word>
