@@ -30,4 +30,4 @@ python tests.py
 
 or particular example as:
 
-python tests.py <word>
+python tests.py word
