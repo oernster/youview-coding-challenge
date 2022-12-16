@@ -2,7 +2,7 @@ from __future__ import print_function
 
 import sys
 
-from interview import KeyCalculator
+from keycalculator import KeyCalculator
 from fixtures import TESTS
 
 
